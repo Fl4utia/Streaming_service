@@ -1,2 +1,16 @@
-# Streaming_service
-The rise of on-demand video streaming services, like Netflix and Disney+, has spurred substantial growth. In this course, our task is to model a streamlined video streaming service, focusing on movies and series. We'll leverage Object-Oriented Programming principles—inheritance, polymorphism, and operator overloading—to build a system that supports future service providers. The end goal is an application generating custom reports, offering insights like genre-specific movie lists or rated movie selections. Throughout the project, we'll apply OOP best practices to create an efficient, flexible solution for modeling a video streaming service.
+# C++ Streaming System Platform
+
+## Description
+
+The C++ Streaming System Platform is a backend-focused project aimed at creating a simplified version of a streaming service like Netflix.
+
+## Usage
+
+1. **Compile and Run:**
+   - Compile the C++ code using your preferred compiler.
+   - Run the executable
+  
+## Technologies Used
+
+- **C++**: Object-oriented programming principles are utilized for code organization.
+- **File I/O**: Content data is read from text files for demonstration purposes.
